@@ -21,4 +21,8 @@ body{
   #image-nav{
     background-image: url("https://knowpathology.com.au/wp-content/uploads/2018/07/happy-test-screen-825x510.jpg");
     background-size: cover;
+    height: 100%;
+  }
+  .bg-light{
+    background-color: transparent;
   }
