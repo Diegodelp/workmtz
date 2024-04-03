@@ -1,0 +1,20 @@
+body{
+    margin: auto;
+    
+  }
+  .container{
+    text-align: center;
+    border: 1px solid black;
+    width: auto;
+    margin-bottom: 50px;
+  }
+  .section-b{
+    background-color: gray;
+  }
+  .container-fluid{
+    --bs-gutter-x: 50rem;
+
+  }
+  .navbar{
+    --bs-navbar-nav-link-padding-x: 1.5rem;
+  }
