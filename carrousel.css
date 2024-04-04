@@ -30,7 +30,7 @@
             font-size: 15px;
             overflow: hidden;
             background: #bbb;
-            border-radius: 10px;
+            border-radius: 2px;
             opacity: 0;
             filter: blur(5px);
             cursor: pointer;
