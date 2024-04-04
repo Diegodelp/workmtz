@@ -21,7 +21,7 @@ body{
   #image-nav{
     background-image: url("https://academy-cdn.wedio.com/2022/03/green-screen-color-wedio.jpg");
     background-size: cover;
-    height: 100%;
+
   }
   .bg-light{
     background-color: transparent !important;
