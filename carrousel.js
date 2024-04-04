@@ -1,4 +1,4 @@
-$(function(){
+(function(){
     let current_view = 0;
     let count_views = $('.carrousel .screens li').length;
     
