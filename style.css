@@ -82,7 +82,7 @@
   .btn{
     --bs-btn-bg:#464646 !important;
     --bs-btn-color: white !important;
-    
+    --bs-btn-border-radius: 0px !important;
 
   }
   .btn:hover{
