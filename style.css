@@ -92,3 +92,15 @@
     
 
   }
+  .grid-content{
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+
+  }
+  .icon-why {
+    padding: 0px 20px;
+  }
+
+  .text-why {
+    text-align: left;
+  }
