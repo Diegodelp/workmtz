@@ -36,7 +36,7 @@
     --bs-navbar-nav-link-padding-x: 1.5rem;
   }
   #image-nav{
-    background-image: url("https://academy-cdn.wedio.com/2022/03/green-screen-color-wedio.jpg");
+    background: linear-gradient(#626262, white);
     background-size: cover;
 
   }
