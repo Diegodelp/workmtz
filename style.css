@@ -97,6 +97,12 @@
     grid-template-columns: repeat(2, 1fr);
 
   }
+  .content-why {
+    display: flex;
+    min-width: 450px;
+    width: auto;
+  }
+
   .icon-why {
     padding: 0px 20px;
   }
