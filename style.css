@@ -78,3 +78,17 @@
     font-size: 40px !important;
     padding: 5px !important;
   }
+
+  .btn{
+    --bs-btn-bg:#464646 !important;
+    --bs-btn-color: white !important;
+    
+
+  }
+  .btn:hover{
+    color: white !important;
+    background-color: gray !important;
+    border-color: #777 !important;
+    
+
+  }
