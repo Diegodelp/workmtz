@@ -66,3 +66,15 @@
   .col-sm-5.col-sm-offset-1.footer-right {
     padding-top: 50px !important;
   }
+
+  .col-sm-5.col-sm-offset-1.footer-right {
+    text-align: left !important;
+    padding-left: 150px !important;
+  }
+
+  .fa, .fas {
+    font-weight: 900 !important;
+    color: #464646 !important;
+    font-size: 40px !important;
+    padding: 5px !important;
+  }
