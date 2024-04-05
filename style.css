@@ -26,7 +26,7 @@
     margin-left: 200px;
   }
   .section-b{
-    background-color: gray;
+    background-color: #6a6a6a;
   }
   .container-fluid{
     --bs-gutter-x: 50rem;
@@ -36,7 +36,7 @@
     --bs-navbar-nav-link-padding-x: 1.5rem;
   }
   #image-nav{
-    background: linear-gradient(#626262, white);
+    background: linear-gradient(#6a6a6a, white);
     background-size: cover;
 
   }
