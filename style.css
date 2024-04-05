@@ -102,12 +102,26 @@
     display: flex;
     min-width: 650px;
     width: auto;
+    color: white;
   }
 
   .icon-why {
     padding: 0px 20px;
   }
+  
+  .icon-why i {
+    background: white !important;
+    border-radius: 5px !important;
+  }
 
   .text-why {
     text-align: left;
+  }
+
+  .text-why p {
+    font-size: 15px !important;
+  }
+
+  .text-why h3 {
+    font-size: 1.5rem !important;
   }
