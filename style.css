@@ -170,7 +170,27 @@
     margin-left: auto;
     max-height: 900px;
   }
+  .footer-info{
+    display: flex;
+    max-width: 100%;
 
+  }
+  .footer-description{
+    width: 800px;
+    background: #80808045;
+    display: flex;
+    flex-direction: column;
+    align-content: inherit;
+    padding: 50px; 
+    width: auto;
+  }
+  .footer-contact{
+    text-align: left;
+    background: #575757;
+    color: white;
+    padding: 50px;
+
+  }
   @media (min-width: 576px) {
     .grid-content {
       display: flex;
@@ -185,5 +205,12 @@
       width: 100%;
       color: white;
       flex-wrap: wrap;
+    }
+    .footer-info{
+      display: flex;
+      max-width: 100%;
+      flex-direction: column;
+      align-items: center;
+  
     }
   }
