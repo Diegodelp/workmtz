@@ -170,3 +170,20 @@
     margin-left: auto;
     max-height: 900px;
   }
+
+  @media (min-width: 576px) {
+    .grid-content {
+      display: flex;
+      flex-direction: column;
+      width: 100%;
+      align-items: center;
+    }
+
+    .content-why {
+      display: flex;
+      min-width: auto;
+      width: 100%;
+      color: white;
+      flex-wrap: wrap;
+    }
+  }
