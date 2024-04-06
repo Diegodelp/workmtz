@@ -35,7 +35,7 @@
     background-color: #6a6a6a;
   }
   .container-fluid{
-    --bs-gutter-x: 10rem;
+    --bs-gutter-x: 50rem;
 
   }
   .navbar{
