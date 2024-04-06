@@ -224,6 +224,10 @@
     .container-nav{
       margin: auto;
     }
+    .grid-float{
+      max-width: 400px;
+    }
+  }
     @media (max-width: 768px) {
       .grid-content {
         display: flex;
@@ -253,5 +257,8 @@
       }
       .container-nav{
         margin: auto;
+      }
+      .grid-float{
+        max-width: 400px;
       }
   }
