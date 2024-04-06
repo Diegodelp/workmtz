@@ -113,6 +113,7 @@
   .grid-float:hover{
     scale: 1.02;
     transition: 0.3s all;
+    filter: brightness(50%);
   }
   .img-grid {
     margin-bottom: 10px;
