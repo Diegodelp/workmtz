@@ -117,15 +117,17 @@
   .img-grid {
     margin-bottom: 10px;
     border: 1px solid gray;
+    height: auto;
   }
-
   .content-left{
     max-width: 500px;
     width: auto;
+    margin-right: 5px;
   }
   .content-right{
     max-width: 500px;
     width: auto;
+    margin-left: 5px;
   }
   .content-why {
     display: flex;
