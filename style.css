@@ -21,6 +21,12 @@
     align-items: center;
     padding: 50px;
   }
+  .nav-link{
+    color: white !important;
+  }
+  .nav-link:hover{
+    color: rgb(219, 219, 219) !important;
+  }
   .container-nav{
     margin-top: 300px;
     margin-left: 200px;
