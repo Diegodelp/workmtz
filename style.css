@@ -164,3 +164,9 @@
   .text-why h3 {
     font-size: 1.5rem !important;
   }
+  .modal-dialog {
+    max-width: 1200px;
+    margin-right: auto;
+    margin-left: auto;
+    max-height: 900px;
+  }
