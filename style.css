@@ -226,6 +226,8 @@
     }
     .container-nav{
       margin: auto;
+      display: flex;
+      flex-direction: column;
     }
     .grid-float{
       max-width: 400px;
@@ -260,6 +262,8 @@
       }
       .container-nav{
         margin: auto;
+        display: flex;
+        flex-direction: column;
       }
       .grid-float{
         max-width: 400px;
