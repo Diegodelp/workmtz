@@ -191,7 +191,7 @@
     padding: 50px;
 
   }
-  @media (min-width: 576px) {
+  @media (max-width: 576px) {
     .grid-content {
       display: flex;
       flex-direction: column;
