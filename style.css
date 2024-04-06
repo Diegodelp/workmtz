@@ -216,4 +216,12 @@
       align-items: center;
   
     }
+    .buttons-nav {
+      margin: auto;
+      width: auto;
+      padding: 50px;
+    }
+    .container-nav{
+      margin: auto;
+    }
   }
