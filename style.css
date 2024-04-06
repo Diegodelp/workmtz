@@ -51,7 +51,8 @@
     background-color: transparent !important;
   }
   .buttons-nav{
-    height: 600px;
+    min-height: 600px;
+    height: auto;
   }
   .button-top{
     border: 3px solid white;
