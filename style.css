@@ -104,6 +104,29 @@
     width: auto;
 
   }
+  .grid-float{
+    max-width: 500px;
+    width: auto;
+    padding: 10px;
+    border-radius: 3px;
+  }
+  .grid-float:hover{
+    scale: 1.02;
+    transition: 0.3s all;
+  }
+  .img-grid {
+    margin-bottom: 10px;
+    border: 1px solid gray;
+  }
+
+  .content-left{
+    max-width: 500px;
+    width: auto;
+  }
+  .content-right{
+    max-width: 500px;
+    width: auto;
+  }
   .content-why {
     display: flex;
     min-width: 650px;
