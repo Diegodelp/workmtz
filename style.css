@@ -47,9 +47,10 @@
     height: 600px;
   }
   .button-top{
-    border: 1px solid white;
+    border: 3px solid white;
     width: 200px;
     padding: 10px;
+    background: none;
   }
 
   .form-control{
