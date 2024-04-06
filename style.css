@@ -138,9 +138,10 @@
   }
   .content-why {
     display: flex;
-    min-width: 650px;
-    width: auto;
+    min-width: auto;
+    width: 100%;
     color: white;
+    
   }
 
   .icon-why {
