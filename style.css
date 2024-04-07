@@ -1,3 +1,6 @@
+    html{
+      background-color: black;
+    }
     body{
         font-family: "Montserrat", sans-serif;
         margin: 0;
@@ -208,6 +211,9 @@
     max-width: 100%;
     color: white;
   }
+  #final{
+    background-color: black;
+  }
   @media (max-width: 536px) {
     html{
       overflow-x: hidden;
@@ -255,6 +261,9 @@
     i{
       font-size:2rem;  
     }
+    .final {
+      flex-direction: column;
+    }
   }
     @media (max-width: 768px) {
       html{
@@ -298,10 +307,13 @@
       .container h1 {
         font-size: 2rem;
     }
-    h1{
+      h1{
       font-size: 2rem;
     }
-    i{
+      i{
       font-size:2rem;  
+    }
+      .final {
+      flex-direction: column;
     }
   }
