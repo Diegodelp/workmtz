@@ -201,6 +201,13 @@
   .modal-content {
     border-radius: 0px !important;
   }
+  .final {
+    display: flex;
+    padding: 50px;
+    text-align: left;
+    max-width: 100%;
+    color: white;
+  }
   @media (max-width: 536px) {
     html{
       overflow-x: hidden;
