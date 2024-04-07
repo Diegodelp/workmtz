@@ -10,6 +10,10 @@
         margin-bottom: 50px !important;
         font-weight: 600;
     }
+    i{
+      font-size:4.2rem;  
+      font-family: lora-italic, serif;
+    }
     p{
         font-size: 20px !important;
     }
@@ -232,6 +236,15 @@
     .grid-float{
       max-width: 400px;
     }
+    .container h1 {
+      font-size: 2rem;
+    }
+    h1{
+      font-size: 2rem;
+    }
+    i{
+      font-size:2rem;  
+    }
   }
     @media (max-width: 768px) {
       .grid-content {
@@ -268,4 +281,14 @@
       .grid-float{
         max-width: 400px;
       }
+
+      .container h1 {
+        font-size: 2rem;
+    }
+    h1{
+      font-size: 2rem;
+    }
+    i{
+      font-size:2rem;  
+    }
   }
