@@ -1,23 +1,23 @@
-    html{
+  html{
       background-color: black;
     }
-    body{
+  body{
         font-family: "Montserrat", sans-serif;
         margin: 0;
         padding: 0;
     }
 
-    h1{
+  h1{
         font-family: "Montserrat", sans-serif;
         font-size: 4rem;
         margin-bottom: 50px !important;
         font-weight: 600;
     }
-    i{
+  i{
       font-size:4.2rem;  
       font-family: lora-italic, serif;
     }
-    p{
+  p{
         font-size: 20px !important;
     }
   .container{
@@ -38,6 +38,7 @@
   .container-nav{
     margin-top: 300px;
     margin-left: 200px;
+    margin-right: 200px;
   }
   .section-b{
     background-color: #6a6a6a;
