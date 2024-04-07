@@ -214,6 +214,9 @@
   #final{
     background-color: black;
   }
+  .final p {
+    color: gray;
+  }
   @media (max-width: 536px) {
     html{
       overflow-x: hidden;
