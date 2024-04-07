@@ -216,6 +216,7 @@
   }
   .final p {
     color: gray;
+    font-size: 15px !important;
   }
   @media (max-width: 536px) {
     html{
