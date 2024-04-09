@@ -127,8 +127,15 @@
     flex-direction: row;
     align-items: center;
     padding: 50px;
+    color: white;
   }
-
+  .numbers h2 {
+    font-size: 5rem;
+    font-weight: 600;
+  }
+  .numbers p {
+    font-weight: 500;
+  }
   .number-row{
     padding: 50px;
     display: flex;
