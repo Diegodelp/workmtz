@@ -120,12 +120,6 @@
     width: auto;
 
   }
-  .grid-content{
-    display: flex;
-    flex-direction: column;
-    width: auto;
-
-  }
   .grid-float{
     max-width: 500px;
     width: 100%;
