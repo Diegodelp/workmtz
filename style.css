@@ -294,6 +294,9 @@
     .final {
       flex-direction: column;
     }
+    .numbers{
+      display: grid;
+    }
     
   }
     @media (max-width: 768px) {
@@ -349,5 +352,8 @@
     }
       .final {
       flex-direction: column;
+    }
+    .numbers{
+      display: grid;
     }
   }
