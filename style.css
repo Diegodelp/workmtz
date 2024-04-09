@@ -111,14 +111,12 @@
     color: white !important;
     background-color: gray !important;
     border-color: #777 !important;
-    
-
   }
   .grid-content{
     display: grid;
     grid-template-columns: repeat(2, 1fr);
     width: auto;
-
+    padding: 120px;
   }
   .grid-float{
     max-width: 500px;
@@ -228,6 +226,7 @@
       flex-direction: column;
       width: 100%;
       align-items: center;
+      padding: 0;
     }
     .button-top{
       margin-bottom: 20px;
@@ -281,6 +280,7 @@
         flex-direction: column;
         width: 100%;
         align-items: center;
+        padding: 0;
       }
       .button-top{
         margin-bottom: 20px;
