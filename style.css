@@ -116,7 +116,8 @@
     display: grid;
     grid-template-columns: repeat(2, 1fr);
     width: auto;
-    padding: 120px;
+    padding-left: 120px;
+    padding-right: 120px;
   }
   .grid-float{
     max-width: 500px;
