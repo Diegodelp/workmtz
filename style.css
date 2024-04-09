@@ -140,6 +140,7 @@
     padding: 50px;
     display: flex;
     flex-direction: column;
+    max-width: 300px;
   }
   .grid-float{
     max-width: 500px;
@@ -293,6 +294,7 @@
     .final {
       flex-direction: column;
     }
+    
   }
     @media (max-width: 768px) {
       html{
