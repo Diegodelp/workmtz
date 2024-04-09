@@ -119,6 +119,21 @@
     padding-left: 120px;
     padding-right: 120px;
   }
+  .numbers{
+    text-align: center;
+    width: auto;
+    margin-bottom: 50px;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    padding: 50px;
+  }
+
+  .number-row{
+    padding: 50px;
+    display: flex;
+    flex-direction: column;
+  }
   .grid-float{
     max-width: 500px;
     width: 100%;
