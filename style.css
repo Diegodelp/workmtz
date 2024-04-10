@@ -106,7 +106,7 @@
     color: white;
     display: block;
     margin: -12px;
-    top: -50%;
+    bottom: 50%;
     text-decoration: none;
     visibility: hidden;
     opacity: 0;
