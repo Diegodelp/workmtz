@@ -168,7 +168,15 @@
     transition: 0.3s all;
     filter: brightness(50%); 
   }
-
+  .news{
+    position: relative;
+    top: 90%;
+    z-index: 999;
+    color: white;
+    background: gray;
+    padding: 5px;
+    border-radius: 5px;"
+  }
   .img-grid {
     margin-bottom: 10px;
     border: 1px solid gray;
