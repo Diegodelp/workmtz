@@ -1,11 +1,7 @@
 .card {
     overflow: hidden;
-    background: rgb(238, 174, 202);
-    background: radial-gradient(
-      circle,
-      rgba(238, 174, 202, 1) 0%,
-      rgba(148, 187, 233, 1) 100%
-    );
+    background: #d7d7d7;
+    background: #d7d7d7;
     .card-img {
       height: 20rem;
     }
