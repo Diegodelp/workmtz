@@ -103,13 +103,14 @@
   }
   .text-img{
     position: relative;
-    color: rgba(255, 255, 255, 0);
+    color: white;
     display: block;
     margin: -12px;
     top: -50%;
-    transition: 0.3s all;
     text-decoration: none;
     visibility: hidden;
+    opacity: 0;
+    transition: visibility 0.2s, opacity 0.2s linear;
   }
   .btn{
     --bs-btn-bg:#464646 !important;
@@ -165,8 +166,8 @@
     filter: brightness(50%); 
   }
   .grid-float:hover .text-img{
-    transition: 0.3s all;
     visibility: visible;
+    opacity: 1;
   }
   .img-grid {
     margin-bottom: 10px;
