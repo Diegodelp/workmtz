@@ -109,9 +109,8 @@
     left: 50%;
     text-decoration: none;
     visibility: hidden;
-    opacity: 0;
-    transition: visibility 0.2s, opacity 0.2s linear;
     transform: translate(-50%, -50%);
+    cursor: context-menu;
   }
   .btn{
     --bs-btn-bg:#464646 !important;
