@@ -108,6 +108,8 @@
     margin: -12px;
     top: -50%;
     transition: 0.3s all;
+    text-decoration: none;
+    visibility: hidden;
   }
   .btn{
     --bs-btn-bg:#464646 !important;
@@ -163,8 +165,8 @@
     filter: brightness(50%); 
   }
   .grid-float:hover .text-img{
-    color: white;
     transition: 0.3s all;
+    visibility: visible;
   }
   .img-grid {
     margin-bottom: 10px;
