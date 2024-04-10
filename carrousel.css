@@ -30,6 +30,14 @@
         max-width: 100%;
       }
     }
+    .container-fluid{
+      min-width: 300px !important;
+      padding-left: 0 !important;
+      padding-right: 0 !important;
+    }
+    .carousel-inner{
+      min-width: 300px !important;
+    }
   }
   
   /* medium and up screens */
@@ -64,6 +72,14 @@
         max-height: 100%;
         margin: 0 -50%;
       }
+    }
+    .container-fluid{
+      min-width: 300px !important;
+      padding-left: 0 !important;
+      padding-right: 0 !important;
+    }
+    .carousel-inner{
+      min-width: 300px !important;
     }
   }
   
