@@ -102,15 +102,16 @@
     padding: 5px !important;
   }
   .text-img{
-    position: relative;
+    position: absolute;
     color: white;
     display: block;
-    margin: -12px;
-    bottom: 50%;
+    top: 50%;
+    left: 50%;
     text-decoration: none;
     visibility: hidden;
     opacity: 0;
     transition: visibility 0.2s, opacity 0.2s linear;
+    transform: translate(-50%, -50%);
   }
   .btn{
     --bs-btn-bg:#464646 !important;
