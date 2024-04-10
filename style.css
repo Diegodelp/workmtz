@@ -172,7 +172,7 @@
     display: flex;
     min-width: auto;
     width: 100%;
-    color: white;
+    color: rgb(0, 0, 0);
     
   }
 
@@ -259,7 +259,7 @@
       display: flex;
       min-width: auto;
       width: 100%;
-      color: white;
+      color: rgb(0, 0, 0);
       flex-wrap: wrap;
     }
     .footer-info{
@@ -317,7 +317,7 @@
         display: flex;
         min-width: auto;
         width: 100%;
-        color: white;
+        color: rgb(0, 0, 0);
         flex-wrap: wrap;
       }
       .footer-info{
