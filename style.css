@@ -165,10 +165,7 @@
     transition: 0.3s all;
     filter: brightness(50%); 
   }
-  .grid-float:hover .text-img{
-    visibility: visible;
-    opacity: 1;
-  }
+
   .img-grid {
     margin-bottom: 10px;
     border: 1px solid gray;
