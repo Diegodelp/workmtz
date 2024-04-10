@@ -30,10 +30,10 @@
     padding: 50px;
   }
   .nav-link{
-    color: white !important;
+    color: rgb(0, 0, 0) !important;
   }
   .nav-link:hover{
-    color: rgb(219, 219, 219) !important;
+    color: rgb(49, 49, 49) !important;
   }
   .container-nav{
     margin-top: 300px;
@@ -63,7 +63,7 @@
     height: auto;
   }
   .button-top{
-    border: 3px solid white;
+    border: 3px solid rgb(0, 0, 0);
     width: 200px;
     padding: 10px;
     background: none;
