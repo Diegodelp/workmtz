@@ -101,7 +101,14 @@
     font-size: 40px !important;
     padding: 5px !important;
   }
-
+  .text-img{
+    position: relative;
+    color: rgba(255, 255, 255, 0);
+    display: block;
+    margin: -12px;
+    top: -50%;
+    transition: 0.3s all;
+  }
   .btn{
     --bs-btn-bg:#464646 !important;
     --bs-btn-color: white !important;
@@ -148,11 +155,15 @@
     width: 100%;
     padding: 10px;
     border-radius: 3px;
+    
   }
   .grid-float:hover{
     scale: 1.02;
     transition: 0.3s all;
     filter: brightness(50%);
+    .text-img{
+      color: white;
+    }
   }
   .img-grid {
     margin-bottom: 10px;
