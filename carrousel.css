@@ -18,8 +18,9 @@
     .card-img-overlay {
       color: #fff;
       font-weight: bold;
-      text-shadow: 0 0 3px #ff0000, 0 0 5px #0000ff;
+      
     }
+    --bs-card-border-radius: 0;
   }
   
   /* small and extra-small screens */
