@@ -58,8 +58,7 @@
     --bs-navbar-nav-link-padding-x: 1.5rem;
   }
   #image-nav{
-    /*background: url("http://ai.matiz.com.ar/1118321_Form_Graphic_Structure_1920x1080.gif");*/
-    background: linear-gradient(to top, rgb(0, 0, 0), rgb(255, 255, 255) );
+    background: url("background.png");*/
     background-size: cover;
 
   }
